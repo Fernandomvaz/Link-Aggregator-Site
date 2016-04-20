@@ -47,4 +47,5 @@ end
 
 # gem for users auths
 gem 'devise', '~> 3.5', '>= 3.5.6'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 
